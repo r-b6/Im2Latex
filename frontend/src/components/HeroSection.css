@@ -1,0 +1,22 @@
+.hero-container{
+    padding-top: 12%;
+}
+
+.text-col{
+    padding-top: 8%;
+    font-family: 'IBM Plex Sans'
+}
+
+.hero-small-text{
+    color: rgb(116, 116, 116);
+}
+
+
+.hero-image{
+    justify-self: center;
+    width: 100%;
+    height: auto;
+    margin: auto;
+    padding-bottom: 20%;
+}
+

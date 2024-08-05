@@ -1,0 +1,35 @@
+.tutorial-container {
+    padding: 20px;
+}
+
+.tutorial-row {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 20px;
+}
+
+.text-column {
+    text-align: left;
+}
+
+.image-column {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.tutorial-image.first {
+    margin-bottom: 20px;
+    max-width: 100%;
+    border: 2px dashed
+}
+
+.item-row{
+    padding-top: 7%;
+}
+
+.footnote{
+    padding-top: 4%;
+    align-items:center;
+    text-align:center;
+}

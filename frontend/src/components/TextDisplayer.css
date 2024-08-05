@@ -1,0 +1,23 @@
+.output-box-control {
+    border: 2px solid black; /* Thicker border */
+    border-radius: 5px; /* Optional: adds rounded corners */
+    padding: 10px; /* Optional: adjusts padding inside the textarea */
+    width: 100%; /* Makes the textarea take the full width of its container */
+    box-sizing: border-box; /* Ensures padding and border are included in the element's total width and height */
+
+}
+
+.output-box-control:focus {
+    outline: none; /* Removes the default focus outline */
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5); /* Adds a box shadow on focus */
+}
+
+.output-box{
+    width: 80%;
+    padding-bottom: 4%;
+    padding-top: 8%;
+}
+
+.save-btn{
+    margin-right: 5%;
+}
